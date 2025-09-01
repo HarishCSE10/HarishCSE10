@@ -24,7 +24,7 @@
 ## 🌐🌌 Connect with Me
 <p align="center">
   <a href="https://harishgandhi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFFF"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/harish-gandhi-s-40493636b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
@@ -58,23 +58,37 @@
 
 ## 📌🌟 Pinned Projects
 
-### 🍰✨ **Online Bakery Shop**  
+### 🍰✨ Online Bakery Shop  
 A responsive e-commerce web app for ordering bakery items online.  
-**⚡ Tech Used:** HTML, CSS, JavaScript, Bootstrap  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)
 🔗 [View Repository](https://github.com/HarishCSE10/Bakery-shop-project)
 
 ---
 
-### 🛰️💡 **Satellite Image Preprocessing (Final Year Project)**  
-AI + Deep Learning project for analyzing satellite images and predicting land suitability for agriculture.  
-**⚡ Tech Used:** CNN, Python, OpenCV, Google Earth Engine  
-🔗 [View Repository](#)
+### ⏳🧮 Age Calculator  
+A simple age calculator built with HTML, CSS, and JavaScript.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+🔗 [Live Site](https://agecalculatorharish.netlify.app)
 
 ---
 
-### 💼🌌 **Personal Portfolio Website**  
+### 📝✅ To-Do List  
+A stylish to-do list web app with task management features.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+🔗 [Live Site](https://todolistharish.netlify.app/)
+
+---
+
+### 🔐💻 Cyber Login Page  
+A cyber-styled login page with “forget password” and “sign-up” options.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF)  
+🔗 [Live Site](https://cyberthemeharish.netlify.app/)
+
+---
+
+### 💼🌌 Personal Portfolio Website  
 A portfolio showcasing my skills, projects, and contact details.  
-**⚡ Tech Used:** HTML, CSS, JavaScript, Bootstrap  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00) 
 🔗 [Live Site](https://harishgandhi.netlify.app)
 
 <!-- Neon Divider -->
@@ -92,6 +106,10 @@ A portfolio showcasing my skills, projects, and contact details.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishCSE10&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000&dates=AAAAAA" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarishCSE10&theme=radical" />
+</p>
+
 <!-- Neon Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -99,7 +117,11 @@ A portfolio showcasing my skills, projects, and contact details.
 
 ## 🎮💫 Fun Zone
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&width=600&lines=Frontend+Developer+from+Madurai;Always+learning+new+tech;Building+projects+with+passion+⚡"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Neon Divider -->
@@ -118,4 +140,3 @@ A portfolio showcasing my skills, projects, and contact details.
 </p>
 
 ⭐️ From [Harish Gandhi](https://github.com/HarishCSE10)
-
