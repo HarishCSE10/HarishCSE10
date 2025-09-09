@@ -86,6 +86,13 @@ A cyber-styled login page with “forget password” and “sign-up” options.
 
 ---
 
+### ❌⭕ XO Game  
+A digital version of the classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+🔗 [Live Site](https://xogameharish.netlify.app/)  
+
+---
+
 ### 💼🌌 Personal Portfolio Website  
 A portfolio showcasing my skills, projects, and contact details.  
 **⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00) 
