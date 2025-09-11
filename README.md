@@ -56,12 +56,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-## 📌🌟 Pinned Projects
-
 ### 🍰✨ Online Bakery Shop  
-A responsive e-commerce web app for ordering bakery items online.  
-**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)
-🔗 [View Repository](https://github.com/HarishCSE10/Bakery-shop-project)
+A responsive e-commerce website for ordering bakery items online,  
+featuring product showcase, categories, and a login/signup system.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+🔗 [Live Site](https://harishbakeryshop.netlify.app/)
+
 
 ---
 
