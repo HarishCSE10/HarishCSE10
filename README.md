@@ -60,8 +60,23 @@
 A responsive e-commerce website for ordering bakery items online,  
 featuring product showcase, categories, and a login/signup system.  
 **⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
-🔗 [Live Site](https://harishbakeryshop.netlify.app/)
+🔗 [Live Site](https://harishbakeryshop.netlify.app)
 
+---
+
+### 📸💻 Instagram Clone (React + Bootstrap + Render + Netlify)  
+A modern **Instagram-like clone** built with **React**, styled with **Bootstrap**, featuring a feed, likes, and responsive design.  
+- **Frontend:** Hosted on **Netlify**  
+- **Data / API:** JSON server hosted on **Render**  
+
+**⚡ Tech Used:**  
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=00FFFF)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?logo=bootstrap&logoColor=AA00FF)  
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500)  
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+
+🔗 [Live Site](https://harishinstaclone.netlify.app)  
 
 ---
 
@@ -72,24 +87,31 @@ A simple age calculator built with HTML, CSS, and JavaScript.
 
 ---
 
+### 📔✨ My Diary  
+A digital diary web app to write your thoughts and preserve memories forever.  
+**⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
+🔗 [Live Site](https://harishgandhi.netlify.app)
+
+---
+
 ### 📝✅ To-Do List  
 A stylish to-do list web app with task management features.  
 **⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
-🔗 [Live Site](https://todolistharish.netlify.app/)
+🔗 [Live Site](https://todolistharish.netlify.app)
 
 ---
 
 ### 🔐💻 Cyber Login Page  
 A cyber-styled login page with “forget password” and “sign-up” options.  
 **⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF)  
-🔗 [Live Site](https://cyberthemeharish.netlify.app/)
+🔗 [Live Site](https://cyberthemeharish.netlify.app)
 
 ---
 
 ### ❌⭕ XO Game  
 A digital version of the classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
 **⚡ Tech Used:** ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=FF4500) ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=00BFFF) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=FFFF00)  
-🔗 [Live Site](https://xogameharish.netlify.app/)  
+🔗 [Live Site](https://xogameharish.netlify.app)  
 
 ---
 
