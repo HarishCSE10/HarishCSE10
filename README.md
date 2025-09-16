@@ -13,7 +13,7 @@
 ## 🦄⚡ About Me
 ✨ Passionate **Frontend Developer** who loves building responsive, user-friendly, and scalable applications.  
 💻 Skilled in **HTML, CSS, JavaScript, React & Bootstrap**.  
-🌱 Currently learning **React** and exploring advanced web development.  
+🌱 Currently Building a React/Next.js projects  
 🎯 Goal: To build impactful projects that solve real-world problems.  
 
 <!-- Neon Divider -->
